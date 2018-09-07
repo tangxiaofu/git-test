@@ -7,4 +7,7 @@ public class TestGit {
         System.out.println("hello word");
         System.out.println("hello word");
     }
+    public void find(){
+        int a = 0;
+    }
 }
