@@ -9,5 +9,7 @@ public class TestGit {
     }
     public void find(){
         int a = 0;
+        int b = 1;
+        int c = 2;
     }
 }
